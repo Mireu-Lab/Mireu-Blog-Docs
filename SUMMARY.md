@@ -4,8 +4,9 @@
 
 ## ML Report
 
-* [Page 1](ml-report/page-1.md)
+- [Ponder](ml-report/Ponder/README.md)
+  * [1 - Chat GPT 자료 정리](ml-report/Ponder/#1.md)
 
 ## System Report
 
-* [Page 2](system-report/page-2.md)
+* [ㅁㄴㅇㄹ](system-report/page-2.md)
