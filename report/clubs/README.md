@@ -6,5 +6,5 @@
 
 | Title | Slides URL | Docs URL | Club Name |
 | --- | --- | --- | --- |
-| ChatGPT는 무엇인가 | None | [Link](report/Clubs/what_is_ChatGPT.md) | Ponder |
+| ChatGPT는 무엇인가 | None | [Link](/report/clubs/what_is_ChatGPT.md) | Ponder |
 
