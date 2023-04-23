@@ -10,9 +10,7 @@
 * [Clubs Report](report/clubs/README.md)
   * [1 - Chat GPT 자료 정리](report/clubs/what_is_ChatGPT.md)
 
-## [ML Report](/ml-report/README.md)
+* [ML Report](report/ml/README.md)
 
-
-
-## [System Report](/system-report/README.md)
+* [System Report](report/system/README.md)
 
