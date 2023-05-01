@@ -164,7 +164,7 @@ ChatGPT이용하여 웹페이지 입문적으로만 한번 실습해보겠습니
 
 
 
-<img src="image/image-20230501165856126.png" alt="image-20230501165856126"  />
+<img src="./image/image-20230501165856126.png" alt="image-20230501165856126"  />
 
 이렇게 하여 천천히 결과을 보도록하겠습니다
 
@@ -172,9 +172,9 @@ ChatGPT이용하여 웹페이지 입문적으로만 한번 실습해보겠습니
 
 ### 기초 HTML 구현
 
-<img src="image/mage-20230501170207494.png" alt="image-20230501170207494"  />
+<img src="./image/mage-20230501170207494.png" alt="image-20230501170207494"  />
 
-<img src="image/mage-20230501170254033.png" alt="image-20230501170254033" />
+<img src="./image/mage-20230501170254033.png" alt="image-20230501170254033" />
 
 여기까지는 사용자가 요청한대로 구현을 하였습니다.
 
@@ -186,13 +186,13 @@ ChatGPT이용하여 웹페이지 입문적으로만 한번 실습해보겠습니
 
 ### CSS HTML 구현
 
-<img src="image/mage-20230501182622578.png" alt="image-20230501182622578" />
+<img src="./image/mage-20230501182622578.png" alt="image-20230501182622578" />
 
 
 
 이렇게 HTML와 CSS를 구현하여 기초적인 HTML웹페이지를 구현해줍니다.
 
-<img src="image/mage-20230501183439686.png" alt="image-20230501183439686" style="zoom: 80%;" />
+<img src="./image/mage-20230501183439686.png" alt="image-20230501183439686" style="zoom: 80%;" />
 
 
 
@@ -216,7 +216,7 @@ ChatGPT이용하여 웹페이지 입문적으로만 한번 실습해보겠습니
 
 아무런 작사에 대한 지정 없이 코드로 작곡 시행이 아래와 같이 출력됩니다.
 
-<img src="image/mage-20230501192940539.png" alt="image-20230501192940539" />
+<img src="./image/mage-20230501192940539.png" alt="image-20230501192940539" />
 
 
 
@@ -238,17 +238,17 @@ ChatGPT이용하여 웹페이지 입문적으로만 한번 실습해보겠습니
 
 대신 여러 정보를 이용하여 정리 및 검색엔진으로써의 능력은 확실히합니다.
 
-<img src="image/mage-20230501203912033.png" alt="image-20230501203912033" style="zoom: 80%;" />
+<img src="./image/mage-20230501203912033.png" alt="image-20230501203912033" style="zoom: 80%;" />
 
 
 
 또한 주제를 주어 스스로 시를 저술하거나
 
-<img src="image/mage-20230501232737758.png" alt="image-20230501232737758" style="zoom: 78%;" />
+<img src="./image/mage-20230501232737758.png" alt="image-20230501232737758" style="zoom: 78%;" />
 
 소설을 저술할수있습니다.
 
-<img src="image/mage-20230501213150185.png" alt="image-20230501213150185" style="zoom: 80%;" />
+<img src="./image/mage-20230501213150185.png" alt="image-20230501213150185" style="zoom: 80%;" />
 
 
 
@@ -260,11 +260,11 @@ ChatGPT이용하여 웹페이지 입문적으로만 한번 실습해보겠습니
 
 
 
-![image-20230501235756407](image/mage-20230501235756407.png)
+![image-20230501235756407](./image/mage-20230501235756407.png)
 
 
 
-<img src="image/mage-20230501234315264.png" alt="image-20230501234315264" style="zoom: 80%;" />
+<img src="./image/mage-20230501234315264.png" alt="image-20230501234315264" style="zoom: 80%;" />
 
 등을 실전(?)에서 사용하실수있습니다.
 
