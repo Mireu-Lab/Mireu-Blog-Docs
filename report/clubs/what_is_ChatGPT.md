@@ -194,7 +194,7 @@ ChatGPT이용하여 웹페이지 입문적으로만 한번 실습해보겠습니
 
 대신 여러 정보를 이용하여 정리 및 검색엔진으로써의 능력은 확실히합니다.
 
-<figure><img src="../../.gitbook/assets/image-20230501213150185.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image-20230501213150185 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
